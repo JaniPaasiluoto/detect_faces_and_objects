@@ -1,0 +1,7 @@
+dlib==19.22.0
+imutils==0.5.4
+numpy==1.19.5
+opencv-python-inference-engine==2021.3.3
+pkg-resources==0.0.0
+python-dotenv==0.16.0
+scipy==1.6.2
